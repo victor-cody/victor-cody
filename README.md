@@ -2,13 +2,7 @@
 
 <div class="Box mt-4">
     <div class="Box-body p-4">
-      <div class="d-flex flex-justify-between">
-        <div class="text-mono text-small mb-3">
-          <svg class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.326 1.973a1.2 1.2 0 011.49-.832c.387.112.977.307 1.575.602.586.291 1.243.71 1.7 1.296.022.027.042.056.061.084A13.22 13.22 0 018 3c.67 0 1.289.037 1.861.108l.051-.07c.457-.586 1.114-1.004 1.7-1.295a9.654 9.654 0 011.576-.602 1.2 1.2 0 011.49.832c.14.493.356 1.347.479 2.29.079.604.123 1.28.07 1.936.541.977.773 2.11.773 3.301C16 13 14.5 15 8 15s-8-2-8-5.5c0-1.034.238-2.128.795-3.117-.08-.712-.034-1.46.052-2.12.122-.943.34-1.797.479-2.29zM8 13.065c6 0 6.5-2 6-4.27C13.363 5.905 11.25 5 8 5s-5.363.904-6 3.796c-.5 2.27 0 4.27 6 4.27z"></path><path d="M4 8a1 1 0 012 0v1a1 1 0 01-2 0V8zm2.078 2.492c-.083-.264.146-.492.422-.492h3c.276 0 .505.228.422.492C9.67 11.304 8.834 12 8 12c-.834 0-1.669-.696-1.922-1.508zM10 8a1 1 0 112 0v1a1 1 0 11-2 0V8z"></path></svg>
-          <a href="/victor-cody/victor-cody" class="no-underline Link--primary">deniavsa</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-text-tertiary">.md</span>
-        </div>
-
-      </div>
+      
       <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1><a id="user-content-hi-im-denilson-santos" class="anchor" aria-hidden="true" href="#hi-im-denilson-santos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I'm Denilson Santos</h1>
   <div>
   <p><a href="mailto:vickyikechukwu13@gmail.com"><img src="https://camo.githubusercontent.com/14f735b6e090722cf6f4de41596129878ed8e4ee3f48c6ca530f9189a6f04c7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d474d41494c2d6331343433383f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a64656e696c736f6e616c76657373616e746f73303140676d61696c2e636f6d" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:denilsonalvessantos01@gmail.com" style="max-width:100%;"></a>
