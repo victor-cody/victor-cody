@@ -1,11 +1,8 @@
 # Hi there 👋 I'm Victor Ikechukwu
 
 <div class="Box mt-4">
-    <div class="Box-body p-4">
-      <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1><a id="user-content-hi-im-denilson-santos" class="anchor" aria-hidden="true" href="#hi-im-denilson-santos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I'm Denilson Santos</h1>
-<div>
-< img src="https://miro.medium.com/max/452/1*OohqW5DGh9CQS4hLY5FXzA.png&imgrefurl=https://medium.com/appsflyer/how-can-hello-world-program-effect-the-way-you-think-about-programing-3be5cefdaf8c&h=544&w=1024&tbnid=9mODFgjKVV0p4M&q=hello+world&tbnh=80&tbnw=150&usg=AI4_-kQImrDy8kF-U6QsnthzcSPh8tzPmg&vet=1&docid=m0t2pMq1WG1-NM&client=ms-opera-mini-android&sa=X&ved=2ahUKEwi5z6blw6jvAhUTHewKHTMWC1oQ9QF6BAgVEAo" alt="Hello world " />
-      
+         <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1><a id="user-content-hi-im-denilson-santos" class="anchor" aria-hidden="true" href="#hi-im-denilson-santos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I'm Denilson Santos</h1>
+<div>      
   <p><a href="mailto:vickyikechukwu13@gmail.com"><img src="https://camo.githubusercontent.com/14f735b6e090722cf6f4de41596129878ed8e4ee3f48c6ca530f9189a6f04c7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d474d41494c2d6331343433383f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a64656e696c736f6e616c76657373616e746f73303140676d61696c2e636f6d" alt="Gmail" data-canonical-src="https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:denilsonalvessantos01@gmail.com" style="max-width:100%;"></a>
   </div>
   <h2><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>About me</h2>
@@ -46,7 +43,7 @@
   <p>By: <a href="https://twitter.com/VectorIkechukwu" rel="nofollow">Victor ikechukwu</a>!</p>
   </article>
     </div>
-   </div>
+   
   </div>
 
 
