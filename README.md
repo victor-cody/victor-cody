@@ -11,6 +11,7 @@
   <br>
 
  - 💬 Ask me about how to solve any Front End issues  
+- 👯 I’m looking to collaborate on real world projects 
 - ⚡ Fun fact: I watch animes alot like a whole lot 🚶‍♂️🚶‍♂️
 
   <h2><a id="user-content-languages-and-technologies-i-use-daily" class="anchor" aria-hidden="true" href="#languages-and-technologies-i-use-daily"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Languages and Technologies I use daily</h2>
@@ -32,11 +33,9 @@
   <a href="https://github.com/victor-cody/"><img src="https://camo.githubusercontent.com/c568ce69df0be25c64f654aea272f8cdb75d555060c5ee5b1f5212dcef4fc650/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c696e6b3d68747470733a2f2f6769746875622e636f6d2f64656e69617673612f" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3&amp;link=https://github.com/deniavsa/" style="max-width:100%;"></a>
   <a href="https://github.com/victor-cody/"><img src="https://camo.githubusercontent.com/3a2de4801a609a527d5cf6b24f5765951a710dafbb1db895090e82874d3b9a7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c696e6b3d68747470733a2f2f6769746875622e636f6d2f64656e69617673612f" alt="React" data-canonical-src="https://img.shields.io/badge/-React-black?style=flat-square&amp;logo=react&amp;link=https://github.com/deniavsa/" style="max-width:100%;"></a>
   <a href="https://github.com/victor-cody/"><img src="https://camo.githubusercontent.com/f060ce2e86dabbf11658ccbd3cdc8831b0fab22f7bb3bb5bc64a5fbf1afa27c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5374796c6564253230436f6d706f6e656e74732d70696e6b3f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473" alt="Styled-components" data-canonical-src="https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&amp;logo=styled-components" style="max-width:100%;"></a>
-  <a href="https://github.com/victor-cody/"><img src="https://camo.githubusercontent.com/e8a9e2b3f94ce16f3b74fa085ced8aca4a0c64a0a34cac7ac7fe86fa93934b77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163744e61746976652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374" alt="React Native" data-canonical-src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&amp;logo=react" style="max-width:100%;"></a></p>
-  <p><strong>Others Technologies</strong></p>
-  <p><a href="https://github.com/deniavsa/"><img src="https://camo.githubusercontent.com/4c1aab13d177b9f0fc64e13705c51d8de4779e04e0902e24513301b21d4d6f83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d677265793f7374796c653d666c61742d737175617265266c6f676f3d506f73746d616e266c696e6b3d68747470733a2f2f6769746875622e636f6d2f64656e69617673612f" alt="Postman" data-canonical-src="https://img.shields.io/badge/-Postman-grey?style=flat-square&amp;logo=Postman&amp;link=https://github.com/deniavsa/" style="max-width:100%;"></a>
-  <a href="https://github.com/deniavsa/"><img src="https://camo.githubusercontent.com/933db2f11bc6976b5ffbf2a1f98fdf2283f231083621a193c49a0ccae6ae68a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c696e6b3d68747470733a2f2f6769746875622e636f6d2f64656e69617673612f" alt="Redux" data-canonical-src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&amp;logo=redux&amp;link=https://github.com/deniavsa/" style="max-width:100%;"></a></p>
-  <p><strong>Operational System</strong></p>
+  </ p>
+<p>
+<strong>Operational System</strong></p>
   <p><a href="https://github.com/RodolfoSilveira/"><img src="https://camo.githubusercontent.com/d419103a00c3018efbe58e428ab576d23a11637b13ac53365c28601d12971c02/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57696e646f77732d3030373844363f7374796c653d666c61742d737175617265266c6f676f3d57696e646f7773266c696e6b3d68747470733a2f2f6769746875622e636f6d2f526f646f6c666f53696c76656972612f" alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&amp;logo=Windows&amp;link=https://github.com/RodolfoSilveira/" style="max-width:100%;"></a></p>
   <p><strong>IDE</strong>
   <a href="https://github.com/RodolfoSilveira/"><img src="https://camo.githubusercontent.com/106c6f9c3577149f9749615bb056707204e500c5941747289f64c9a310347581/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d56697375616c53747564696f436f6465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f526f646f6c666f53696c76656972612f" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&amp;logo=VisualStudioCode&amp;link=https://github.com/RodolfoSilveira/" style="max-width:100%;"></a></p>
@@ -50,7 +49,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Array Methods](https://dev.to/abodmicheal/twitter-group-for-developers-to-help-gain-likes-and-retweets-17b6)
+- [Understanding JavaScript Array Methods](https://vickyikechukwu.hashnode.dev/understanding-javascript-array-methods)
 
   <p>By: <a href="https://twitter.com/VectorIkechukwu" rel="nofollow">Victor ikechukwu</a>!</p>
   </article>
