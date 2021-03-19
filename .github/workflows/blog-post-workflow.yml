@@ -1,0 +1,23 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs Every Day
+
+jobs:
+  update-readme-with-blogs:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥  Fetching Repository Contents"
+      - uses: actions/checkout@v2
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
+      # - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          USERNAME: 'victor'
+          COUNT: 5
+          STYLE: "blog-left"
+          feed_list: "https://@Victorikecukwu.hashnode.dev/rss.xml"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
