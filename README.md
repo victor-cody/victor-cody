@@ -15,8 +15,7 @@ src="https://camo.githubusercontent.com/14f735b6e090722cf6f4de41596129878ed8e4ee
 alt="Gmail"
 data-canonical-src="https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:denilsonalvessantos01@gmail.com"
 style="max-width:100%;"></a>
-[![Twitter
-Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/VectorIkechukwu
+
 </div>
 <h2><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg
 class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"
@@ -163,3 +162,21 @@ alt="victor-cody" /></p>
 ikechukwu</a>!</p>
 </article>
 </div>
+
+
+
+<!--
+**victor-cody/victor-cody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+
+- ⚡ Fun fact: ...
+-->
