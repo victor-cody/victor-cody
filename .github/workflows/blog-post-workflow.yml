@@ -18,6 +18,6 @@ jobs:
           USERNAME: 'victor'
           COUNT: 5
           STYLE: "blog-left"
-          feed_list: "https://@Victorikecukwu.hashnode.dev/rss.xml"
+          BLOG_URL: 'https://vickyikechukwu.hashnode.dev/'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
