@@ -154,9 +154,18 @@ style="max-width:100%;"></a></p>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p>&nbsp;<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=victor-cody&show_icons=true"
-alt="victor-cody" /></p>
+
+
+
+[![Regedit's github
+stats](https://github-readme-stats.vercel.app/api?username=victor-cody&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+[![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-cody&hide=css,html&layout=compact&theme=nightowl)](https://github.com/victor-cody/github-readme-stats)
+
+</br>
 
 <p>By: <a href="https://twitter.com/VectorIkechukwu" rel="nofollow">Victor
 ikechukwu</a>!</p>
