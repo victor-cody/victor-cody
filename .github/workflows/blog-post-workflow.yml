@@ -1,15 +1,17 @@
-name: Latest blog post workflow
+name: "📚 Blog Updater"
+
 on:
+  workflow_dispatch:
   schedule: # Run workflow automatically
     - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
   update-readme-with-blogs:
-    name: Update this repo's README with latest blog posts
+    name: "Update this repo's README with latest blog posts"
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
-      - uses: actions/checkout@v2
+        uses: actions/checkout@v2
 
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
