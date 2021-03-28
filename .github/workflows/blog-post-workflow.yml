@@ -11,15 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@v2
+        uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
-      # - uses: gautamkrishnar/blog-post-workflow@master
         with:
           USERNAME: 'victor'
           COUNT: 5
           STYLE: "blog-left"
-          BLOG_URL: 'https://vickyikechukwu.hashnode.dev/'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
