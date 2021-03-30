@@ -3,7 +3,7 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs Every Day
+    - cron: '0 * * * *' # Runs every hour, on the hour
 
 jobs:
   update-readme-with-blogs:
@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'victor'
+          USERNAME: 'VickyIkechukwu'
           COUNT: 5
           STYLE: "blog-left"
         env:
