@@ -30,8 +30,8 @@ fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1
 👨‍💻</g-emoji> <strong> Front End Developer / Transitioning in Fullstack web
 development </strong>
 </p>
-<p> 16 y/o Frontend developer transitioning into FullStack development , enthusiastic about
-open-source 🚀, helping out #codeNewbies one line of code at a time ♥️, sharing what I
+<p> 17 | Frontend Developer | Aspiring FullStack | Building web interfaces In Public | enthusiastic about
+open-source 🚀| helping out #codeNewbies one line of code at a time ♥️, sharing what I
 know with the world 🌍.</p>
 <br>
 
