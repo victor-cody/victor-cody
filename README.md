@@ -23,7 +23,7 @@ know with the world 🌍.</p>
 
 - 👯 I’m looking to collaborat/build on real world projects through internships
 
-- 📫 How to reach me **vivek.p9737@gmail.com**
+- 📫 How to reach me **vickyikechukwu13@gmail.com**
 
 - ⚡ Fun fact: I watch animes alot like a whole lot 🚶‍♂️🚶‍♂️
 
