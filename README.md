@@ -21,11 +21,11 @@ know with the world 🌍.</p>
 
 - 💬 Ask me about Front End issues, **Javascript**, **Python**
 
-- 👯 I’m looking to collaborat/build on real world projects through internships
+- 👯 I’m looking to collaborate/build on real world projects through internships
 
 - 📫 How to reach me **vickyikechukwu13@gmail.com**
 
-- ⚡ Fun fact: I watch animes alot like a whole lot 🚶‍♂️🚶‍♂️
+- ⚡ Fun fact: I watch animes a lot like a whole lot 🚶‍♂️🚶‍♂️
 
 ### 🛠 &nbsp;Languages and Tools
 
