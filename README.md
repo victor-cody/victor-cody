@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-<h3 align="center">👨‍💻 Front End Developer | Passionate Technical Writter | Transitioning into Fullstack
+<h3 align="center">👨‍💻 Front End Developer | Passionate Technical Writer | Transitioning into Fullstack
 development 👨 </h3>
 
 <p align="center">
