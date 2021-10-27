@@ -2,29 +2,27 @@
 
 <h2>About Me</h2>
 
-<h3 align="center">👨‍💻 Front End Developer | Passionate Technical Writter | Transitioning into Fullstack
-development 👨 </h3>
+<h3 align="center">👨‍💻 Front End Developer | Passionate Technical Writter | Transitioning into Dev Rel 👨 </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=victor-cody&color=blueviolet&style=flat">
 </p>
 
-<p> I'm 16-year-old Frontend Developer on an intention to enhance as a successful full-stack web developer. I love building  web applications and mobile apps. enthusiastic
-about open-source 🚀. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community on my  <a href="https://vickyikechukwu.hashnode.dev/">Blog</a> 🌍 . Open to all DMs on <a href="https://twitter.com/VectorIkechukwu">Twitter</a> </p>
-
-- 🌱 I’m currently learning **React.js, NodeJS, Python, etc.**
+<p> I'm 16-year-old Frontend Developer and Technical writer on an intention to enhance as a successful web developer. I love building  web applications and mobile apps. enthusiastic about open-source 🚀. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community on my  <a href="https://vickyikechukwu.hashnode.dev/">Blog</a> 🌍.  I want to write in as many puplications as I have the opportunity to. I want to get my content around the world 🌍.
+ 
+- 🌱 I’m currently learning **React.js Ecosystem, NodeJS, Python, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/victor-cody?tab=repositories)
 
-- 💬 Ask me about Front End issues, **Javascript**, **Python**
+- 💬 Ask me about Front End issues, **Javascript**, **Python**, **Next.js**, **Node.js**
 
-- 👯 I’m looking to collaborate/build on real world projects through internships
+- 👯 I’m looking to collaborate/build on world projects, technical writing gigs
 
 - 📫 How to reach me **vickyikechukwu13@gmail.com**
 
 - ⚡ Fun fact: I watch animes a lot like a whole lot 🚶‍♂️🚶‍♂️
 
-### 🛠 &nbsp;Languages and Tools
+### 🛠 &nbsp; Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
@@ -61,8 +59,7 @@ about open-source 🚀. I have proved my superiority in frontend technologies. I
 </a>
 </p>
 
-#  🏻&nbsp; Let's Connect on 👨 🤝 👩 
-
+#  🏻&nbsp; Let's Connect on 🤝
 
 ## Social Media
 <p>
