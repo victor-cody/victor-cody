@@ -87,5 +87,5 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 - [The History Of JavaScript ⌛](https://vickyikechukwu.hashnode.dev/the-history-of-javascript)
 - [Deploy a React Application to Netlify](https://vickyikechukwu.hashnode.dev/deploy-a-react-application-to-netlify)
 - [Blogging At Hashnode](https://vickyikechukwu.hashnode.dev/blogging-at-hashnode)
-- [Getting Comfortable With CSS Selectors (Part 2)](https://vickyikechukwu.hashnode.dev/getting-comfortable-with-css-selectors-part-2)
+- [Getting Comfortable With CSS Selectors &lpar;Part 2&rpar;](https://vickyikechukwu.hashnode.dev/getting-comfortable-with-css-selectors-part-2)
 <!-- BLOG-POST-LIST:END -->
