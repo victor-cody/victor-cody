@@ -2,13 +2,13 @@
 
 <h2>About Me</h2>
 
-<h3 align="center">👨‍💻 Front End Developer | Passionate Technical Writter | Transitioning into Dev Rel 👨 </h3>
+<h3 align="center">👨‍💻 Front End Developer | Technical Writter ✍ | Transitioning into Dev Rel 🥑� </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=victor-cody&color=blueviolet&style=flat">
 </p>
 
-<p> I'm 16-year-old Frontend Developer and Technical writer on an intention to enhance as a successful web developer. I love building  web applications and mobile apps. enthusiastic about open-source 🚀. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community on my  <a href="https://vickyikechukwu.hashnode.dev/">Blog</a> 🌍.  I want to write in as many puplications as I have the opportunity to. I want to get my content around the world 🌍.
+<p> I'm a 16-year-old Frontend Developer and Technical writer. I love building  web applications and mobile apps. enthusiastic about open-source 🚀. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community on my  <a href="https://vickyikechukwu.hashnode.dev/">Blog</a> 🌍.  I want to write in as many puplications as I have the opportunity to. I want to get my content around the world 🌍.
  
 - 🌱 I’m currently learning **React.js Ecosystem, NodeJS, Python, etc.**
 
