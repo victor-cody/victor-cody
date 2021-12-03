@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=victor-cody&color=blueviolet&style=flat">
 </p>
 
-<p> I'm a 16-year-old Frontend Developer and Technical writer. I love building  web applications and mobile apps. enthusiastic about open-source 🚀. I have proved my superiority in frontend technologies. I love to share my resources and expertise with the dev community on my  <a href="https://vickyikechukwu.hashnode.dev/">Blog</a> 🌍.  I want to write in as many puplications as I have the opportunity to. I want to get my content around the world 🌍.
+<p> Frontend Developer and Technical writer. I love building web applications and mobile apps. enthusiastic about open-source 🚀. Love to share my resources and expertise with the dev community on my <a href="https://vickyikechukwu.hashnode.dev/">Blog</a> 🌍.  I want to write in as many puplications as I have the opportunity to. I want to get my content around the world 🌍.
  
 - 🌱 I’m currently learning **React.js Ecosystem, NodeJS, Python, etc.**
 
