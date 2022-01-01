@@ -83,9 +83,9 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [2021 Year in Review: The Good, The Bad, and The Expectations](https://vickyikechukwu.hashnode.dev/2021-year-in-review-the-good-the-bad-and-the-expectations)
 - [Replace Occurrence of a String in JavaScript](https://vickyikechukwu.hashnode.dev/replace-occurrence-of-a-string-in-javascript)
 - [Tools for Web Developers To Work Smarter and not Harder](https://vickyikechukwu.hashnode.dev/tools-for-web-developers-to-work-smarter-and-not-harder)
 - [The History Of JavaScript ⌛](https://vickyikechukwu.hashnode.dev/the-history-of-javascript)
 - [Deploy a React Application to Netlify](https://vickyikechukwu.hashnode.dev/deploy-a-react-application-to-netlify)
-- [Blogging At Hashnode](https://vickyikechukwu.hashnode.dev/blogging-at-hashnode)
 <!-- BLOG-POST-LIST:END -->
