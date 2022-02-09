@@ -19,7 +19,7 @@ I want to write in as many puplications as I have the opportunity to, I want to 
 
 - 👯 I’m looking to collaborate/build on projects, technical writing gigs
 
-- 📫 you can emaill me at [vickyikechukwu13@gmail.com](vickyikechukwu13@gmail.com) or drop me a dm on [Twitter](https://twitter.com/Victor_codejs)
+- 📫 you can emaill me at [vickyikechukwu13@gmail.com](mailto:vickyikechukwu13@gmail.com) or drop me a dm on [Twitter](https://twitter.com/Victor_codejs)
 
 - ⚡ Fun fact: I watch animes a lot like a whole lot 🚶‍♂️🚶‍♂️
 
