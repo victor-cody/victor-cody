@@ -1,30 +1,31 @@
-<h1 align="center">Hi there 👋, I'm Victor Ikechukwu</h1>
-
-## About Me
-
-<h3 align="center">👨‍💻 Front End Developer turned Technical Writter ✍ - Transitioning into DevRel 🥑 </h3>
+<h1 align="center">Hello World, I'm Victor 🚀 </h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=victor-cody&color=blueviolet&style=flat">
 </p>
 
-Frontend Developer and Technical writer. I love building web and mobile apps. Enthusiastic about open-source 🚀. I think I'm in love with sharing my resources and expertise with the dev community on my <a href="https://vickyikechukwu.hashnode.dev/">Blog</a> 🌍. I want to write in as many puplications as I have the opportunity to, I want to get my content around the world! 🌍.
+I'm a Frontend Developer interested in the JamStack. 
+Building elegant, simple, and intuitive web interfaces that effectively communicate products to their intended targeted users using modern web technologies like HTML, CSS, Javascript, Typescript, React, Gatsby, NextJs, TailwindCSS and Styled-components.
+
+On the side, I explore the space of technical content creation, and strategy for tech startups as a technical writer, writing on topics revolving around the frontend ecosystem, and the Jamstack aimed at helping other developers discover new tools or expand their skillset. Check out my articles on Hashnode here: https://vickyikechukwu.hashnode.dev/
+
+I want to write in as many puplications as I have the opportunity to, I want to get my content around the world! 🌍.
  
 - 🌱 I’m currently learning **technologies in the React.js ecosystem, NodeJS, Python, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/victor-cody?tab=repositories)
 
-- 💬 Ask me about Front End issues, **Javascript**, **Python**, **Next.js**, **Node.js** and technical writing.
+- 💬 Ask me about Front End issues, Javascript, Python, Next.js, Node.js and technical writing.
 
 - 👯 I’m looking to collaborate/build on projects, technical writing gigs
 
-- 📫 How to reach me **vickyikechukwu13@gmail.com**
+- 📫 you can emaill me at [vickyikechukwu13@gmail.com](vickyikechukwu13@gmail.com) or drop me a dm on [Twitter](https://twitter.com/Victor_codejs)
 
 - ⚡ Fun fact: I watch animes a lot like a whole lot 🚶‍♂️🚶‍♂️
 
 I'm currently looking for new opportunities, so my inbox is always open. Have a question? or do you just want to say hi? feel free to drop me a DM. 🤗
 
-## 🛠 &nbsp; Tech Stack
+### 🛠 &nbsp; Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
@@ -42,17 +43,13 @@ I'm currently looking for new opportunities, so my inbox is always open. Have a 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<br>
 <br>
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
-## ⚙️ &nbsp; GitHub Analytics
+### ⚙️ &nbsp; GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/victor-cody">
@@ -61,20 +58,7 @@ I'm currently looking for new opportunities, so my inbox is always open. Have a 
 </a>
 </p>
 
-## Let's Connect 🤝
-
-<p>
- <a href="mailto:vickyikechukwu13@gmail.com"><img
-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-/></a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/VectorIkechukwu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-&nbsp;&nbsp;
-<a href="https://linkedin/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-&nbsp;&nbsp;
-</p>  
-
-## My Blogs
+### My Blogs
 <p>
 <a href="https://vickyikechukwu.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a> 
  &nbsp;&nbsp;
