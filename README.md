@@ -1,23 +1,18 @@
-<h1 align="center">Hello World, I'm Victor 🚀 </h1>
+## Hello Stranger, I'm Victor 🚀
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=victor-cody&color=blueviolet&style=flat">
-</p>
+I'm a Frontend Developer interested in the JamStack. Building elegant, simple, and intuitive web interfaces that effectively communicate products to their intended targeted users using modern web technologies like HTML, CSS, Javascript, Typescript, React, Gatsby, NextJs, TailwindCSS and Styled-components.
 
-I'm a Frontend Developer interested in the JamStack. 
-Building elegant, simple, and intuitive web interfaces that effectively communicate products to their intended targeted users using modern web technologies like HTML, CSS, Javascript, Typescript, React, Gatsby, NextJs, TailwindCSS and Styled-components.
-
-On the side, I explore the space of technical content creation, and strategy for tech startups as a technical writer, writing on topics revolving around the frontend ecosystem, and the Jamstack aimed at helping other developers discover new tools or expand their skillset. Check out my articles on Hashnode here: https://vickyikechukwu.hashnode.dev/
+On the side, I explore the space of technical content creation, and strategy for tech startups as a technical writer, writing on topics revolving around the frontend ecosystem, and the Jamstack aimed at helping other developers discover new tools or expand their skillset.
 
 I want to write in as many puplications as I have the opportunity to, I want to get my content around the world! 🌍.
  
-- 🌱 I’m currently learning **technologies in the React.js ecosystem, NodeJS, Python, etc.**
+- 🌱 I’m currently learning technologies in the React.js ecosystem, NodeJS, Web3, and more...
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/victor-cody?tab=repositories)
 
-- 💬 Ask me about Front End issues, Javascript, Python, Next.js, Node.js and technical writing.
+- 💬 Ask me about Front End issues,and technical writing.
 
-- 👯 I’m looking to collaborate/build on projects, technical writing gigs
+- 👯 I’m looking to collaborate/build on projects, and technical writing gigs
 
 - 📫 you can emaill me at [vickyikechukwu13@gmail.com](mailto:vickyikechukwu13@gmail.com) or drop me a dm on [Twitter](https://twitter.com/Victor_codejs)
 
@@ -49,13 +44,17 @@ I'm currently looking for new opportunities, so my inbox is always open. Have a 
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
 
-### ⚙️ &nbsp; GitHub Analytics
+### ⚙️ &nbsp; GitHub Stats
 
 <p align="center">
 <a href="https://github.com/victor-cody">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victor-cody&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victor-cody&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=victor-cody&color=blueviolet&style=flat">
 </p>
 
 ### My Blogs
