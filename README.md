@@ -1,8 +1,8 @@
 ## Hello Stranger, I'm Victor 👋
 
-I'm a frontend developer interested in the JamStack. I build elegant, simple, and intuitive web interfaces that effectively communicate products to their intended targeted users using modern web technologies such as Javascript, Typescript, React, Gatsby, NextJs, TailwindCSS, Styled-Components and more...
+I'm a frontend developer interested in the JamStack. I build elegant, simple, and intuitive web interfaces that effectively communicate products to their intended  users using modern web technologies such as Javascript, Typescript, React, Gatsby, NextJs, TailwindCSS, Styled-Components and more...
 
-On the side, I explore the space of technical content creation, developer marketing and developer education as a technical writer/devrel 🥑 for tech startups.
+On the side, I explore the space of technical content creation, developer marketing and developer education for tech startups as a technical writer/devrel 🥑.
  
 - 👯 I’m looking to collaborate/build on projects, and technical writing gigs
 
