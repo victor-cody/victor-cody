@@ -1,17 +1,9 @@
-## Hello Stranger, I'm Victor 🚀
+## Hello Stranger, I'm Victor 👋
 
 I'm a Frontend Developer interested in the JamStack. Building elegant, simple, and intuitive web interfaces that effectively communicate products to their intended targeted users using modern web technologies like HTML, CSS, Javascript, Typescript, React, Gatsby, NextJs, TailwindCSS and Styled-components.
 
 On the side, I explore the space of technical content creation, and strategy for tech startups as a technical writer, writing on topics revolving around the frontend ecosystem, and the Jamstack aimed at helping other developers discover new tools or expand their skillset.
-
-I want to write in as many puplications as I have the opportunity to, I want to get my content around the world! 🌍.
  
-- 🌱 I’m currently learning technologies in the React.js ecosystem, NodeJS, Web3, and more...
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/victor-cody?tab=repositories)
-
-- 💬 Ask me about Front End issues,and technical writing.
-
 - 👯 I’m looking to collaborate/build on projects, and technical writing gigs
 
 - 📫 you can emaill me at [vickyikechukwu13@gmail.com](mailto:vickyikechukwu13@gmail.com) or drop me a dm on [Twitter](https://twitter.com/Victor_codejs)
@@ -58,13 +50,11 @@ I'm currently looking for new opportunities, so my inbox is always open. Have a 
 </p>
 
 ### My Blogs
-<p>
-<a href="https://vickyikechukwu.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a> 
- &nbsp;&nbsp;
-<a href="https://dev.to/mr_victor"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a> 
-</p>
+- [Hashnode](https://vickyikechukwu.hashnode.dev/)
+- [Dev,to](https://dev.to/mr_victor)
+- [FreeCodeCamp](https://www.freecodecamp.org/news/author/victor-ikechukwu/)
 
-📘 Latest Blog Articles
+📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [2021 Year in Review: The Good, The Bad, and The Expectations](https://vickyikechukwu.hashnode.dev/2021-year-in-review-the-good-the-bad-and-the-expectations)
