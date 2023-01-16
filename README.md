@@ -6,11 +6,9 @@ On the side, I explore the space of technical content creation, developer market
  
 - 👯 I’m looking to collaborate/build on projects, and technical writing gigs
 
-- 📫 you can emaill me at [vickyikechukwu13@gmail.com](mailto:vickyikechukwu13@gmail.com) or drop me a dm on [Twitter](https://twitter.com/Victor_codejs)
-
 - ⚡ Fun fact: I watch animes a lot like a whole lot 🚶‍♂️🚶‍♂️
 
-I'm currently looking for new opportunities, so my inbox is always open. Have a question? or do you just want to say hi? feel free to drop me a DM. 🤗
+I'm currently looking for new opportunities, so my inbox is always open.
 
 ### 🛠 &nbsp; Tech Stack
 
