@@ -1,11 +1,12 @@
 ## Hello Stranger, I'm Victor 👋
 
-I'm a Front-end developer and Technical writer. I strive to create seamless, pixel-perfect UI and UX experiences on the web and high-quality technical content that educates and aids developers in solving their problems 🥑.
-<br/>
- 
-- 👯 I’m looking to collaborate/build on projects, and technical writing gigs
+Software developer with over 3 years of experience building digital experiences on the web with web technologies. On the side, I'm a seasoned Technical writer and Developer content expert. I specialize in creating approachable software content that isn't boring, hard to understand, and resonates with developers. In other words, I'm into DevRel 🥑
 
-- ⚡ Fun fact: I watch animes a lot like a whole lot 🚶‍♂️🚶‍♂️
+<br/>
+
+- 😆 **Fun facts about me**: I binge-watch animes a lot. I like karaoke-ing. And, if tech doesn't work out, I have dreams of being a professional fashion model or chef 👨🏽‍🍳.
+
+<br/>
 
 ### ⚙️ &nbsp; GitHub Stats
 
