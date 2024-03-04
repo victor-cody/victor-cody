@@ -4,7 +4,7 @@ Software developer with over 3 years of experience building experiences and prod
 
 <br/>
 
-- 😆 **Fun facts about me**: I binge-watch animes a lot. I like karaoke-ing. And, if tech doesn't work out, I have dreams of being a professional fashion model or chef 👨🏽‍🍳.
+- 😆 **Fun facts about me**: I binge-watch animes a lot. I love karaoke-ing randomly throughout the day. And, if tech doesn't work out, I have dreams of being a professional fashion model or chef 👨🏽‍🍳.
 
 <br/>
 
