@@ -1,6 +1,6 @@
 ## Hello Stranger, I'm Victor 👋
 
-Software developer with over 3 years of experience building experiences and products on the web with web technologies. On the side, I'm a Technical writer and Developer content expert. I specialize in creating approachable software content that isn't boring, hard to understand, and resonates with developers. In other words, I'm into DevRel 🥑
+Software engineer and Technical writer. I specialize in creating approachable software content that isn't boring, hard to understand, and resonates with developers. In other words, I'm into DevRel 🥑
 
 <br/>
 
