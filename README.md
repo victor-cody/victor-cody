@@ -1,6 +1,6 @@
 ## Hello Stranger, I'm Victor 👋
 
-Software engineer and Technical writer. I specialize in creating approachable software content that isn't boring, hard to understand, and resonates with developers. In other words, I'm into DevRel 🥑
+Software engineer and Technical writer. I specialize in translating complex technical information into clear, concise bits that aren't boring and resonate with developers. In other words, I'm into DevRel 🥑.
 
 <br/>
 
