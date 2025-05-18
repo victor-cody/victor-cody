@@ -1,6 +1,6 @@
-## Hello Stranger, I'm Victor 👋
+## Hello Stranger, I'm Victor Ikechukwu 👋
 
-Software engineer and Technical writer. I specialize in translating complex technical information into clear, concise bits that aren't boring and resonate with developers. In other words, I'm into DevRel 🥑.
+Software engineer and Technical writer. I specialize in translating complex technical information into clear, concise bits that resonate with developers, crafting technical content that drives user education and accelerates product adoption.
 
 <br/>
 
@@ -17,9 +17,9 @@ Software engineer and Technical writer. I specialize in translating complex tech
 </a>
 </p>
 
-<p align="center">
+<h2 align="center">
 <img src="https://komarev.com/ghpvc/?username=victor-cody&color=blueviolet&style=flat">
-</p>
+</h2>
 
 ### My Blogs
 - [Hashnode](https://vickyikechukwu.hashnode.dev/)
