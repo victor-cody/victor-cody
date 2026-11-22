@@ -1,10 +1,10 @@
 ## Hello Stranger, I'm Victor Ikechukwu 👋
 
-Software engineer and Technical writer. I specialize in translating complex technical information into clear, concise bits that resonate with developers, crafting technical content that drives user education and accelerates product adoption.
+Software engineer and Technical writer.
 
 <br/>
 
-- 😆 **Fun facts about me**: I binge-watch animes a lot. I love karaoke-ing randomly throughout the day. And, if tech doesn't work out, I have dreams of being a professional fashion model or chef 👨🏽‍🍳.
+-  **Fun facts about me**: I binge-watch animes a lot. I love karaoke-ing randomly throughout the day. And if tech doesn't work out, I have dreams of becoming a professional fashion model or chef 👨🏽‍🍳.
 
 <br/>
 
@@ -21,12 +21,3 @@ Software engineer and Technical writer. I specialize in translating complex tech
 <img src="https://komarev.com/ghpvc/?username=victor-cody&color=blueviolet&style=flat">
 </h2>
 
-### My Blogs
-- [Hashnode](https://vickyikechukwu.hashnode.dev/)
-- [Dev,to](https://dev.to/mr_victor)
-- [FreeCodeCamp](https://www.freecodecamp.org/news/author/victor-ikechukwu/)
-
-📘 Latest Blog Posts
-
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
